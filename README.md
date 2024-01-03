@@ -16,3 +16,11 @@ following the rules below.
 You can play game with three keys (1 , 2. 3)
 Press '1', '2', or '3' to select the source rod (rods 1, 2, or 3, respectively).
 Press '1', '2', or '3' again to select the destination rod for the move.
+
+
+#  Requirments
+Visual Studio 2022
+Open GL installed 
+
+# I have used nupengl.core package which contains necessary libraries to run open gl
+To install this package go to the tools section in Top bar of visual studio. Then hover over the nuget package manager option and click on package manager console. Run the command Install-Package nupengl.core in console . It will install all packages autoamtically.
