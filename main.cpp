@@ -55,7 +55,7 @@ void drawTower() {
 
     // Draw Rabia Mukhtar -221834  Jasia Mubashir - 221831
     glRasterPos2f(0.1, 0.02);
-    std::string madeBy = "Made By:  221834 Rabia Mukhtar & 221831 Jasia Mubashir ";
+    std::string madeBy = "Made By:  Ahmad Naseem";
     for (char c : madeBy) {
         glutBitmapCharacter(GLUT_BITMAP_HELVETICA_12, c); // renders a bitmap character on the screen.
     }
